@@ -1,0 +1,8 @@
+node_modules
+.env
+artifacts
+cache
+test
+script
+.gitignore
+.git
